@@ -1,0 +1,19 @@
+
+---
+
+## 6️⃣ .gitignore
+```gitignore
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Node (future)
+node_modules/
+dist/
